@@ -1,3 +1,5 @@
+Ссылки на документацию
+
 https://flask.palletsprojects.com/en/stable/quickstart/#static-files
 
 https://python-adv-web-apps.readthedocs.io/en/latest/flask_forms.html#a-quick-note-about-bootstrap-in-flask
